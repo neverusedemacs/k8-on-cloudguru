@@ -44,3 +44,5 @@ Now lets run through this check found [here](https://kubernetes.io/docs/setup/pr
 - [ ] Unique hostname, mac address and product_uuid for every node
 - [ ] Certain ports are open on your machines
 - [ ] Swap disabled
+
+Once we get through the checklist let's start installing kubernetes
